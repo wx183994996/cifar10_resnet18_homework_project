@@ -1,0 +1,4 @@
+mode=finetune
+checkpoint=./outputs/finetune/best_model.pth
+test_loss=0.147242
+test_accuracy=0.964400

@@ -1,0 +1,4 @@
+mode=scratch
+checkpoint=./outputs/scratch/best_model.pth
+test_loss=0.212277
+test_accuracy=0.956200
